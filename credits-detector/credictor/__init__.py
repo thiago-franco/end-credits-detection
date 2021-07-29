@@ -1,0 +1,1 @@
+from credictor.predictor import CreditsPredictor
